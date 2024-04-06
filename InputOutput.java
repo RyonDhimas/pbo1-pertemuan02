@@ -14,7 +14,7 @@ public class InputOutput{
   System.out.print("Masukkan Jumlah SKS yang sudah ditempuh :");
   jumlahSks = scanner.nextLine();
 
-  System.out.print("Masukkan IPK Sementara :")
+  System.out.print("Masukkan IPK Sementara :");
   IPK = scanner.nextLine();
 
   double jumlah = IPK * jumlahSks;
